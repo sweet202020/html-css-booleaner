@@ -42,6 +42,7 @@ th{
 .monitor, .graph{
     width: 300px;
     height: 200px;
+    background-size: contain;
     background-repeat: no-repeat;
     text-align: center;
     color: white;
