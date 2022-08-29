@@ -1,0 +1,17 @@
+#sfondo{
+    background-image: url("./img/pattern.png");
+    background-color: rgb(97, 97, 234);
+    background-size: contain;
+}
+.logo{
+    width: 300px;
+}
+h1{
+    font-size: 50px;
+}
+.little-title{
+    color: rgb(111, 105, 105);
+}
+#color-name{
+    color: blue;
+}
