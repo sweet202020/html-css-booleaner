@@ -22,7 +22,7 @@ h1{
 main{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }    
-#highlighter{
+.highlighter{
     background-color: yellow;
 }
 
@@ -35,4 +35,20 @@ th{
 }
 .bgrow{
     background-color: aqua;
+}
+.tips{
+    color: rgb(43, 40, 40);
+}
+.monitor, .graph{
+    width: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
+.monitor{
+    background-image: url("./img/monitor.jpg");
+}
+.graph{
+    background-image: url("./img/graph.jpg");
 }
