@@ -21,8 +21,20 @@ h1{
 }
 main{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-    
+}    
 #highlighter{
     background-color: yellow;
+}
+
+.intestazione{
+    display: inline-block;
+    width: 32%;
+    background-color: rgba(37, 62, 255, 0.274);
+    color: white;
+}
+.row{
+    width: 32%;
+    background-size: auto;
+    background-color: aqua;
+    display:inline-block;
 }
